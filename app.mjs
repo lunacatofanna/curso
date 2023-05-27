@@ -12,3 +12,6 @@ const subtracao= (a,b) => a-b
 console.log (subtracao(35,2))
 
 
+const divisao= (a,b) => a/b
+console.log (divisao(40,5))
+
